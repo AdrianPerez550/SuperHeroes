@@ -21,6 +21,22 @@ export class ContadorComponent implements OnInit {
     this.numero += valor;
 
   }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
 /*
   sumar(){
     this.numero +=1;
